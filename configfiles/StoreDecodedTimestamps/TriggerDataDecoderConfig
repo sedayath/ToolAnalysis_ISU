@@ -1,0 +1,4 @@
+verbosity 0
+TriggerMaskFile ./configfiles/StoreDecodedTimestamps/FullTriggerMask.txt
+StoreTrigOverlap 0
+ReadTrigOverlap 1
